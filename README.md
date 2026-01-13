@@ -3,15 +3,6 @@
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izac-Regis&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izac-Regis&layout=compact&theme=github_dark)
-
----
-
 ## 🚀 Sobre mim
 Sou estudante de Tecnologia da Informação com interesse em desenvolvimento de software e infraestrutura.  
 Tenho conhecimentos em **Java, Python e C#**, já utilizei **bancos de dados relacionais e não relacionais**  

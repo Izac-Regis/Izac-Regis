@@ -4,9 +4,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=izac-Regis&show_icons=true&theme=github_dark)
+## 📊 GitHub Stats
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=izac-Regis&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izac-Regis&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izac-Regis&layout=compact&theme=github_dark)
 
 ---
 

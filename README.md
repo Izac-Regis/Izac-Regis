@@ -5,7 +5,7 @@
 <h1 align="center">Olá! Eu sou o Izac Regis 👋</h1>
 
 <div align="center">
-  <h3>Estudante de Engenharia de Software | Estudante de </h3>
+  <h3>Estudante de Engenharia de Software | Desenvolvedor Fullstack</h3>
 </div>
 
 <br/>

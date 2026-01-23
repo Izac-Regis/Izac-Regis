@@ -5,7 +5,7 @@
 <h1 align="center">Olá! Eu sou o Izac Regis 👋</h1>
 
 <div align="center">
-  <h3>Estudante de Engenharia de Software | Desenvolvedor Fullstack</h3>
+  <h3>Estudante de Engenharia de Software | Estudante de </h3>
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
         <li> <b>Educação:</b> Engenharia de Software - Jala University (Em andamento)</li>
         <li> <b>Foco atual:</b> aprimorar meus conhecimentos, criar projetos e conquistar uma oportunidade no mercado.</li>
         <li> <b>Aprendendo:</b> C# e conceitos introdutórios de Inteligência Artificial.</li>
-        <li> <b>Curiosidade:</b> gosto de entender o funcionamento interno das aplicações, não só fazer o código rodar.</li>
+        <li> <b>Curiosidade:</b> gosto de entender o funcionamento interno das aplicações, não só fazer o código rodar. Atualmente estou cursando ADS.</li>
       </ul>
     </td>
     <td width="40%" align="center">
